@@ -80597,7 +80597,7 @@ p=r.ax
 o=A.a39(B.i,!0,s,p,B.l)
 n=A.ag(B.c.aa(76.5),0,0,0)
 m=t.p
-n=A.hp(B.aL,A.a([new A.h8("assets/assets/images/about-bg.jpg",h,h,i),A.b6(i,A.dP(A.zP(A.jl(B.K,B.Gx,B.j,i,0,i,i,i,i,i,B.be),"base-home-title-animation"),i,i),B.j,n,i,i,i,i,i,i,i,i,i)],m),B.aQ)
+n=A.hp(B.aL,A.a([new A.h8("assets/assets/images/about-bg.jpg",h,h,i),A.b6(i,A.dP(A.zP(A.jl(B.K,B.Gw,B.j,i,0,i,i,i,i,i,B.be),"base-home-title-animation"),i,i),B.j,n,i,i,i,i,i,i,i,i,i)],m),B.aQ)
 n=A.cw(new A.c0(new A.ai(0,10,0,10),A.k2(A.dw(10),n),i),"px-xs-3",700)
 l=A.a([A.cw(A.k2(A.dw(10),new A.h8("assets/assets/images/about/faheem.jpeg",i,h,i)),g,q),A.cw(A.cU(A.a([A.cV(B.Gt,10,0,0),B.Gy],m),B.ak,B.bC,B.F,B.I),g,q)],t.jL)
 l=A.cV(new A.e7(new A.hE(A.mC("col-12 px-xs-3 g-4"),l,i),i,B.v,i),10,0,30)
@@ -80764,7 +80764,7 @@ p=A.cV(A.zP(A.jl(B.K,B.Gr,B.j,l,0,l,l,l,l,l,B.be),"base-home-title-animation"),3
 o=A.cw(B.yg,"d-block d-sm-none",l)
 n=A.dw(50)
 m=t.p
-return A.hp(B.aL,A.a([new A.h8(s,k,k,l),A.b6(l,A.aEp(A.cw(A.cU(A.a([B.Gw,p,o,A.cw(A.b6(l,A.ee(A.a([A.cU(A.a([B.Gu,new A.c0(new A.ai(0,5,0,5),B.Gv,l)],m),B.ak,B.y,B.F,B.I),A.b6(l,l,B.j,B.bD,l,l,l,35,B.Hb,l,l,l,1),B.yg],m),B.B,B.y,B.an),B.j,l,l,new A.cb(B.i,l,l,n,l,l,B.Y),l,l,l,B.Hc,l,l,l),"d-none d-sm-block",l)],m),B.B,B.y,B.an,B.I),"px-xs-3",l)),B.j,B.hY,l,l,l,l,l,l,l,l,l),new A.dN(B.kW,l,l,new A.c0(new A.ai(20,20,20,20),A.aCY(q.gm(0),10,A.aHo($.l6(),$.ayu(),5,0),new A.a1o(r)),l),l)],m),B.aQ)}}
+return A.hp(B.aL,A.a([new A.h8(s,k,k,l),A.b6(l,A.aEp(A.cw(A.cU(A.a([B.Gx,p,o,A.cw(A.b6(l,A.ee(A.a([A.cU(A.a([B.Gu,new A.c0(new A.ai(0,5,0,5),B.Gv,l)],m),B.ak,B.y,B.F,B.I),A.b6(l,l,B.j,B.bD,l,l,l,35,B.Hb,l,l,l,1),B.yg],m),B.B,B.y,B.an),B.j,l,l,new A.cb(B.i,l,l,n,l,l,B.Y),l,l,l,B.Hc,l,l,l),"d-none d-sm-block",l)],m),B.B,B.y,B.an,B.I),"px-xs-3",l)),B.j,B.hY,l,l,l,l,l,l,l,l,l),new A.dN(B.kW,l,l,new A.c0(new A.ai(20,20,20,20),A.aCY(q.gm(0),10,A.aHo($.l6(),$.ayu(),5,0),new A.a1o(r)),l),l)],m),B.aQ)}}
 A.a1o.prototype={
 $1(a){this.a.dy.$1(a)},
 $S:196}
@@ -88570,10 +88570,10 @@ B.Gu=new A.k5("Need plans for the weekend?",B.eg,null,0.4,null)
 B.kg=new A.jE(1)
 B.Xx=new A.A(!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.kg,null,null,null,null,null,null,null,null)
 B.Gv=new A.k5("Pick the perfect getaway for yourself with our 2-min tour curator",B.Xx,null,0.4,null)
-B.Xp=new A.A(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.fh,null,null,null)
-B.Gw=new A.k5("Unesco World Heritage City Trails.",B.Xp,B.aS,0.8,null)
 B.X0=new A.A(!0,B.i,null,null,null,null,null,B.aN,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Gx=new A.k5("Meet Team Twsello.",B.X0,null,null,null)
+B.Gw=new A.k5("Meet Team Twsello.",B.X0,null,null,null)
+B.Xp=new A.A(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.fh,null,null,null)
+B.Gx=new A.k5("UNESCO CITY OF LITERATURE TRAILS",B.Xp,B.aS,0.8,null)
 B.Gy=new A.k5("Founder",null,null,0.5,null)
 B.Gz=new A.tL(null,null,null,null,null)
 B.im=new A.KP(0,"down")
